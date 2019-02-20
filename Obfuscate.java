@@ -1,3 +1,5 @@
+// Not my code
+
 import javax.swing.*;
 import java.awt.datatransfer.*;
 import java.awt.Toolkit;
