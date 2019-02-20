@@ -3,3 +3,5 @@
 ### Usage
 
 ### Adding macros to Word documents
+
+### Additional Information
